@@ -1,0 +1,8 @@
+.env
+__pycache__/
+.venv/
+*.pyc
+outputs/
+models/
+Twitch API cred.txt
+.tio.tokens.json
